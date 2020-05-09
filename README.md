@@ -1,8 +1,8 @@
 # RandomDice
 play dice with TextToSpeech and Expo - React Native, with login: root and password: root
 
-![Alt text](https://github.com/brandonsousa/RandomDice/assets/login.jpg "Login Screen")
-![Alt text](https://github.com/brandonsousa/RandomDice/assets/play.jpg "Play Dice Screen")
+![Alt text](https://github.com/brandonsousa/RandomDice/blob/master/assets/login.jpg "Login Screen")
+![Alt text](https://github.com/brandonsousa/RandomDice/blob/master/assets/play.jpg "Play Dice Screen")
 
 ### How to use
 1. Clone this respository
